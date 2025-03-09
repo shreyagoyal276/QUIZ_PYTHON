@@ -61,9 +61,13 @@ A command-line quiz application that allows users to test their knowledge across
 - `add_ques()`: Allows users to append new questions to `quiz_data.csv`.
 
 ---
+## Download the Latest Release
 
-## **Contributing 🤝**
-Contributions are welcome! Feel free to:
-- Open issues for bug reports or feature requests.
-- Submit pull requests with improvements.
+The **Quiz Game** is available as a Windows `.exe` file! 🎉  
+👉 **[Download Now](https://github.com/shreyagoyal276/QUIZ_PYTHON/releases/latest)**  
 
+Click the link above to get the latest version, including:  
+✅ `QUIZ_CODE.exe` (The quiz game)  
+✅ `quiz_data.csv` (The quiz questions file)  
+
+💡 **Make sure both files are in the same folder before running the game!**  
